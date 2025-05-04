@@ -1,4 +1,7 @@
 # Titanic Survival Prediction
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A machine learning project to predict Titanic passenger survival, featuring statistical analysis and custom feature engineering. Key features include `relatives` and `family_size`, a chi-squared test (p < 0.0001 for `sex` vs. `survived`), and a correlation heatmap. Models (Naive Bayes, Neural Network, Logistic Regression, XGBoost) achieve up to 81.34% accuracy with XGBoost. See `titanic_survival_prediction.ipynb` for details.
 
 ## Dataset
