@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "titanic_survival_prediction",
+    "jupyter.jupyterServerType": "local"
+}
